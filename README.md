@@ -1,1 +1,5 @@
-# kottans_frontend
+# Kottans frontend course
+
+ ## **Task 0**
+
+blablablablablablalb
