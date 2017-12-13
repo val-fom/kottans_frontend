@@ -31,3 +31,9 @@ _new:_ Identification and Authentication
 _surprised:_ persistent and parallel connections which are default in HTTP/1.1  
 _to use:_ Cache Control Headers 
 
+ ## **Task 2**
+
+- [Version Control with Git (screenshot)](task_2/Version_Control_with_Git.png)
+
+This course better explains Git. Especially branching, merging and undoing changes.  
+PS: And a funny phrase to my vocabulary - _"easy-peasy"_ :P
