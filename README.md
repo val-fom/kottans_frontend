@@ -47,3 +47,5 @@ From this course I've got better explanation of how tricky the `git rebase` comm
  ## **Task 3**
 
 - [HTML and CSS Syntax (screenshot)](task_3/HTML_and_CSS_Syntax.png)
+
+I'm glad that I've already passed most of one of the proposed extra materials - [htmlacademy (screenshot)](task_3/htmlacademy.png)  
