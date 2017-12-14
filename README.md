@@ -36,4 +36,8 @@ _to use:_ Cache Control Headers
 - [Version Control with Git (screenshot)](task_2/Version_Control_with_Git.png)
 
 This course better explains Git. Especially branching, merging and undoing changes.  
-PS: And a funny phrase to my vocabulary - _"easy-peasy"_ :P
+PS: And a funny phrase to my vocabulary - _"easy-peasy"_ :P  
+
+- [GitHub & Collaboration (screenshot)](task_2/GitHub_n_Collaboration.png)
+
+From this course I've got better explanation of how tricky the `git rebase` command is. And what is the order of a collaboration.  
