@@ -7,7 +7,9 @@ Before that I've learned them through watching disjointed screencasts, googling 
 Sarah's 'concept map' really helps me to understand it better.
 
 Also performing tasks forced me to learn some new commands. Even not only from this materials,
-such as: `git commit --amend`, `git rebase --interactive HEAD~n`, `git push --force`, etc.
+such as: `git commit --amend`, `git rebase --interactive HEAD~n`, `git push --force`, etc.  
+_upd from "GitHub & Collaboration" course: rebase is bad while collaborating when you've already 
+pushed the commits you want to rebase._  
 
 Git and GitHub are very powerful developer tools.
 
