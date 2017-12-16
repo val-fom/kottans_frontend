@@ -53,3 +53,7 @@ I'm glad that I've already passed most of one of the proposed extra materials - 
  ## **Task 4**
 
 - [Responsive Web Design Fundamentals (screenshot)](task_4/Responsive_Web_Design_Fundamentals.png)
+
+_new:_ responsive patterns  
+_surprised:_ responsive images and optimization  
+_to use:_ flexbox  
