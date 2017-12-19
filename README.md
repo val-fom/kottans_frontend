@@ -57,3 +57,7 @@ I'm glad that I've already passed most of one of the proposed extra materials - 
 _new:_ responsive patterns  
 _surprised:_ responsive images and optimization  
 _to use:_ flexbox  
+
+ ## **Task 5**
+
+- [Intro to JavaScript (screenshot)](task_5/Intro_to_JavaScript.png)
