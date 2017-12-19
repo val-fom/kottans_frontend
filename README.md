@@ -61,3 +61,7 @@ _to use:_ flexbox
  ## **Task 5**
 
 - [Intro to JavaScript (screenshot)](task_5/Intro_to_JavaScript.png)
+
+_new:_ the difference between arguments and parameter of a function  
+_surprised:_ hoisting variables and functions to the top of a scope  
+_to use:_ convention for naming variables and properties  
