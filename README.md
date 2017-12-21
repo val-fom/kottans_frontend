@@ -65,3 +65,7 @@ _to use:_ flexbox
 _new:_ the difference between arguments and parameter of a function  
 _surprised:_ hoisting variables and functions to the top of a scope  
 _to use:_ convention for naming variables and properties  
+
+ ## **Task 6**
+
+- [Object-Oriented JavaScript (screenshot)](task_6/Object-Oriented_JavaScript.png)
