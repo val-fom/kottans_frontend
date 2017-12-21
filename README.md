@@ -81,7 +81,7 @@ var Constructor = function(arg) {
     (return this;)
 }
 ```
-_surprised:_ I was surprised that it is widly accepted bad technique 
+_surprised:_ I was surprised that it is widely accepted bad technique 
 binding prototypes by running 
 ```javascript
 Subclass.prototype = new Superclass()
