@@ -69,3 +69,27 @@ _to use:_ convention for naming variables and properties
  ## **Task 6**
 
 - [Object-Oriented JavaScript (screenshot)](task_6/Object-Oriented_JavaScript.png)
+
+_new:_ good explanation of `this`: _only the moment of call time influences how 
+the parameter this will get bound!_  
+by using a `new` keyword, function is going to run in a special mode called _Constructor Mode_
+Which adds two lines at the beginning and at the end:  
+```javascript
+var Constructor = function(arg) {
+    (this = Object.create(Constructor.prototype);)
+    ...
+    (return this;)
+}
+```
+_surprised:_ I was surprised that it is widly accepted bad technique 
+binding prototypes by running 
+```javascript
+Subclass.prototype = new Superclass()
+``` 
+instead of 
+```javascript
+Subclass.prototype = Object.create(Superclass.prototype)
+``` 
+_to use:_ pseudoclassical pattern in object-oriented JavaScript  
+
+
