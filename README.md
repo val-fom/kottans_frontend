@@ -93,4 +93,8 @@ Subclass.prototype = Object.create(Superclass.prototype)
 _to use:_ pseudoclassical pattern in object-oriented JavaScript  
 
 - frontend-nanodegree-arcade-game [repo](https://github.com/val-fom/frontend-nanodegree-arcade-game), 
-[demo](https://val-fom.github.io/frontend-nanodegree-arcade-game/)
+[demo](https://val-fom.github.io/frontend-nanodegree-arcade-game/)  
+
+ ## **Task 7**
+
+- [Offline Web Applications (screenshot)](task_7/Offline_Web_Applications.png)
