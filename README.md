@@ -98,3 +98,7 @@ _to use:_ pseudoclassical pattern in object-oriented JavaScript
  ## **Task 7**
 
 - [Offline Web Applications (screenshot)](task_7/Offline_Web_Applications.png)
+
+_new:_ Service worker, IndexedDB, Cache - all this was new for me. Also I had a good practice with Promises.  
+_surprised:_ how many instruments on a browser side a developer has for improving user experience.  
+_to use:_ Offline First approach, for sure.  
