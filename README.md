@@ -102,3 +102,10 @@ _to use:_ pseudoclassical pattern in object-oriented JavaScript
 _new:_ Service worker, IndexedDB, Cache - all this was new for me. Also I had a good practice with Promises.  
 _surprised:_ how many instruments on a browser side a developer has for improving user experience.  
 _to use:_ Offline First approach, for sure.  
+
+ ## **Task 8**
+
+ ![Memory Pair Game (screenshot)](task_8/Memory-Pair-Game.png)
+
+ - [to play the game](https://val-fom.github.io/memory-pair-game/)
+ - [to view the repo](https://github.com/val-fom/memory-pair-game)
