@@ -109,3 +109,7 @@ _to use:_ Offline First approach, for sure.
 
  - [to play the game](https://val-fom.github.io/memory-pair-game/)
  - [to view the repo](https://github.com/val-fom/memory-pair-game)
+
+ ## **Task 9**
+
+- [Website Performance Optimization (screenshot)](task_9/Website_Performance_Optimization.png)
