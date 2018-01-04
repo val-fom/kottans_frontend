@@ -113,3 +113,23 @@ _to use:_ Offline First approach, for sure.
  ## **Task 9**
 
 - [Website Performance Optimization (screenshot)](task_9/Website_Performance_Optimization.png)
+
+_new:_ GPU animation, composited layers, `will-change:` property  
+_surprised:_ trick with '`transform:scale`-ing' red square in a composited layer for saving memory  
+_to use:_ **General strategies of website performance optimization:**  
+```
+1. Minimize Bytes  
+  Minify, Compress, Cache  
+  * HTML, CSS, JavaScript  
+
+2. Reduce critical resources  
+  1. Minimize use of render blocking resources (CSS)  
+    * Use media queries on <link> to unblock rendering  
+    * Inline CSS  
+
+  2. Minimize use of parser blocking resources (JS)  
+    * Defer JavaScript execution  
+    * Use async attribute on <script>  
+
+3. Shorten Critical Rendering Path
+```
